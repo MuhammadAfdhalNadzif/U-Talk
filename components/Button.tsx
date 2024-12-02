@@ -28,6 +28,6 @@ export const Button = forwardRef<TouchableOpacity, ButtonProps>(
 );
 
 const styles = {
-  button: 'items-center rounded-lg bg-[#3470A2] shadow-md p-4',
+  button: 'items-center rounded-lg bg-[#3470A2] shadow-md p-5',
   buttonText: 'text-white text-lg font-semibold text-center',
 };
