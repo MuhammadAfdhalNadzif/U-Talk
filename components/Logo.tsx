@@ -13,12 +13,12 @@ export const Logo = () => {
 const styles = StyleSheet.create({
   logoU: {
     fontFamily: 'Outfit_700Bold',
-    fontSize: 32,
+    fontSize: 33,
     color: '#DDA915',
   },
   logoTalk: {
     fontFamily: 'Outfit_700Bold',
-    fontSize: 32,
+    fontSize: 33,
     color: '#3470A2',
   },
 });
